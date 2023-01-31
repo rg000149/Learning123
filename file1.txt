@@ -1,9 +1,0 @@
-public class
-{
-static void main(String[] args)
-  { 
-  for(int i=0;i<=15;i++)
-}
- Systemout.println(i);
-}
-
